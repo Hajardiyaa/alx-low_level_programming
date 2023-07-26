@@ -1,5 +1,9 @@
-#include "main.h"
-/*returne a value of a bit at an index dicimal num*/
+#include"main.h"
+/*
+ * return the value of a bit in
+ * @n:number
+ * @index:imdex
+ */
 int get_bit(unsigned long int n, unsigned int index)
 {
 	int bit_val;
@@ -11,4 +15,5 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	return (bit_val);
 }
+
 
