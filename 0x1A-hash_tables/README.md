@@ -1,1 +1,1 @@
- This is a hash tables project 
+this is a hash tables task 
